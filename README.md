@@ -1,4 +1,5 @@
 # boo-ubuntu-emacs
+2022. 08. 27. (토) 22:28:11 KST
 
 KIME - korean input method   made by rust 
 - cd /var/tmp ;
@@ -7,10 +8,11 @@ KIME - korean input method   made by rust
 - reboot
 
 Onedrive
-- apt update
-- add-apt-repository ppa:yann1ck/onedrive
-- apt install -y onedrive
-- onedrive
+- sudo apt update
+- sudo add-apt-repository ppa:yann1ck/onedrive
+- sudo apt install -y onedrive
 - onedrive --help
+- onedrive
+- 계정연동
 - onedrive --synchronize
 - ls /oneDrive
